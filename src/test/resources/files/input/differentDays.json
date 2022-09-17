@@ -1,0 +1,68 @@
+{
+  "displayed_what" : "Casa Ferlin",
+  "displayed_where" : "Stampfenbachstrasse 38",
+  "opening_hours" : {
+    "days": {
+      "monday": [
+        {
+          "start": "08:30",
+          "end": "14:00",
+          "type": "OPEN"
+        },
+        {
+          "start": "15:30",
+          "end": "22:00",
+          "type": "OPEN"
+        }
+      ],
+      "tuesday": [
+        {
+          "start": "09:30",
+          "end": "14:00",
+          "type": "OPEN"
+        },
+        {
+          "start": "16:30",
+          "end": "22:00",
+          "type": "OPEN"
+        }
+      ],
+      "wednesday": [
+        {
+          "start": "10:30",
+          "end": "14:00",
+          "type": "OPEN"
+        },
+        {
+          "start": "18:30",
+          "end": "22:00",
+          "type": "OPEN"
+        }
+      ],
+      "thursday": [
+        {
+          "start": "11:30",
+          "end": "14:00",
+          "type": "OPEN"
+        },
+        {
+          "start": "17:30",
+          "end": "22:00",
+          "type": "OPEN"
+        }
+      ],
+      "saturday": [
+        {
+          "start": "12:30",
+          "end": "14:00",
+          "type": "OPEN"
+        },
+        {
+          "start": "18:30",
+          "end": "22:00",
+          "type": "OPEN"
+        }
+      ]
+    }
+  }
+}

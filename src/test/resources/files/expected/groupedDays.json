@@ -1,0 +1,13 @@
+{
+  "name" : "Casa Ferlin",
+  "address" : "Stampfenbachstrasse 38",
+  "openingHours" : {
+    "Monday - Friday": [
+      "11:30 - 14:00",
+      "18:30 - 22:00"
+    ],
+    "Saturday - Sunday": [
+      "closed"
+    ]
+  }
+}
